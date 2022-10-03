@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace console_app_algoritma_act_1
+namespace Algoritma_Act1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+
         }
+        int a;
     }
 }
